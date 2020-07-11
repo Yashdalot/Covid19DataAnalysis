@@ -1,5 +1,8 @@
-#Covid 19 Dashboard
+# Covid 19 Dashboard
+
+
  A simple Dashboard built on Python Jupyter Notebook which pre-process the data from the 
+ 
 https://api.covid19india.org/data.json
 https://api.covid19india.org/state_district_wise.json
 
