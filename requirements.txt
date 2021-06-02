@@ -59,7 +59,7 @@ testpath==0.4.4
 tornado==6.0.4
 tqdm==4.32.2
 traitlets==4.3.3
-urllib3==1.25.3
+urllib3==1.26.5
 voila==0.1.21
 voila-material==0.3.0
 wcwidth==0.2.4
